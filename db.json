@@ -6,7 +6,13 @@
             "username":"user1",
             "email":"email@email.com",
             "password":"pass",
-            "accountBalance":"100"
+            "accountBalance":"100",
+            
+            "diamond":"1",
+            "ruby":"2",
+            "emerald":"1"
+            
+            
         },
         {
             "id":"2",
@@ -14,7 +20,13 @@
             "username":"username2",
             "email":"email2@email.com",
             "password":"pass",
-            "accountBalance":"300"
+            "accountBalance":"300",
+            
+            "diamond":"2",
+            "ruby":"2",
+            "emerald":"2"
+            
+            
         },
         {
             "id":"3",
@@ -22,24 +34,29 @@
             "username":"username3",
             "email":"email3@email.com",
             "password":"pass",
-            "accountBalance":"1500"
+            "accountBalance":"1500",
+            
+            "diamond":"5",
+            "ruby":"3",
+            "emerald":"4"
+            
         }
     ],
     "jewels":[
         {
-            "id":"1",
+            "id":1,
             "name":"diamond",
-            "value":"100"
+            "value":200
         },
         {
-            "id":"2",
+            "id":2,
             "name":"ruby",
-            "value":"100"
+            "value":150
         },
         {
-            "id":"3",
+            "id":3,
             "name":"emerald",
-            "value":"100"
+            "value":100
         }
     ]
 }
